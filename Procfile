@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ediwang_3434.wsgi:application
